@@ -7,6 +7,8 @@
 
 ## Quickstart
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pulseshift/openui5-gulp-starter-kit.svg)](https://greenkeeper.io/)
+
 [Download](https://github.com/pulseshift/openui5-gulp-starter-kit/archive/master.zip) or clone this repository:
 ```
 git clone git@github.com:pulseshift/openui5-gulp-starter-kit.git
